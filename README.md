@@ -23,4 +23,4 @@ gatsby develop
 
 ScreenShot
 
-![Design+Code Hero Screenshot](https://user-images.githubusercontent.com/67114280/178742044-aa66bfa6-385e-483f-8a1f-016b92d68c5e.png)
+![Design-Code](https://user-images.githubusercontent.com/67114280/204089189-9e89428f-68d6-45c7-b6c6-47c17cb61af4.png)
