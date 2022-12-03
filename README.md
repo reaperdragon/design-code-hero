@@ -19,7 +19,7 @@ gatsby develop
 
 > Your development server should be running on http://localhost:8000/
 
-## 🔗[Demo](https://design-code-hero-clone.netlify.app/)
+## [Demo](https://design-code-hero-clone.netlify.app/)
 
 ScreenShot
 
