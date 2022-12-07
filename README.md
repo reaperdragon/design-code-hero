@@ -9,6 +9,7 @@ First, Clone this Repo and change to the repo directory:
 ```
 git clone https://github.com/Aakrut/design-code-hero
 cd design-code-hero
+npm install
 ```
 
 Second, run the development server:
